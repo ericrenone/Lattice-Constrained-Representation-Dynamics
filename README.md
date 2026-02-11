@@ -16,7 +16,7 @@
 
 ---
 
-## 🔬 Comparison to SOTA
+## Comparison to SOTA
 
 | Feature | LCRD v2.1 | Standard Contrastive / IB | Transformer / Attention |
 |---------|-----------|--------------------------|------------------------|
@@ -34,7 +34,7 @@
 
 ---
 
-## 🧠 First-Principles Insights
+## First-Principles Insights
 
 1. **Information and Representation**  
    Any system that learns or encodes patterns is fundamentally an information processor. Optimal representations maximize relevant information while discarding redundancy, enabling predictive efficiency.
