@@ -1,4 +1,4 @@
-## LCRD (Lattice-Constrained Representation Dynamics)** is a **deterministic, lightweight framework** for learning **invariant, task-relevant representations**.  
+## LCRD (Lattice-Constrained Representation Dynamics) is a **deterministic, lightweight framework** for learning **invariant, task-relevant representations** unifying:
 
 - **Information Bottleneck Theory**
 - **Contrastive Learning**
