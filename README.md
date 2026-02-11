@@ -30,7 +30,7 @@ Compared to existing representation learning methods:
 2. Visualizes **compression vs. relevance** as a measurable, testable trajectory (“boomerang”).  
 3. Bridges **neural network training** with **transformer-style multi-head representation joins** in a unified theory.  
 
-## References
+## References 
 
 - Shannon, C. E. (1948). *A Mathematical Theory of Communication*. Bell System Technical Journal, 27(3,4), 379–423, 623–656.  
 
@@ -56,3 +56,8 @@ Compared to existing representation learning methods:
 
 - LeCun, Y., Bengio, Y., & Hinton, G. (2015). *Deep Learning*. Nature, 521, 436–444.  
 
+- Golub, G. H., & Van Loan, C. F. (2013). *Matrix Computations* (4th ed.). Johns Hopkins University Press.  <!-- SVD reference -->
+
+- Eckart, C., & Young, G. (1936). *The Approximation of One Matrix by Another of Lower Rank*. Psychometrika, 1(3), 211–218.  <!-- SVD / low-rank approx -->
+
+- Young, L. C. (1937). *Generalized Curves and the Calculus of Variations*. Transactions of the American Mathematical Society, 42(3), 225–256.  <!-- canonical Young reference -->
