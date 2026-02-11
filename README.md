@@ -18,7 +18,7 @@
 
 ## Comparison to SOTA
 
-| Feature | LCRD v2.1 | Standard Contrastive / IB | Transformer / Attention |
+| Feature | LCRD | Standard Contrastive / IB | Transformer / Attention |
 |---------|-----------|--------------------------|------------------------|
 | Provable invariant representation | ✅ | ❌ | Partial |
 | Nuisance suppression (I(T;θ)) | ✅ | Limited | ❌ |
