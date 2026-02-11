@@ -59,6 +59,3 @@ into a single framework, providing a **provable information-theoretic foundation
    Systems designed with information efficiency, hierarchical abstraction, and variational principles are naturally robust and generalizable. Identifying dominant structures enables optimal compression, prediction, and control.
 
 
-
-venv\Scripts\activate     # Windows
-pip install -r requirements.txt
