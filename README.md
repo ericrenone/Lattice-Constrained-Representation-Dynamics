@@ -13,7 +13,7 @@ Key innovations include:
 
 ---
 
-## Novelty and Comparison to SOTA
+## Comparison to SOTA
 
 Compared to existing representation learning methods:
 
@@ -25,7 +25,7 @@ Compared to existing representation learning methods:
 | Analytic dimensionality (Participation Ratio) | ✅ | ❌ | ❌ |
 | Lightweight, minimal dependencies | ✅ | ❌ | ❌ |
 
-**Why this is novel:**  
+**Why this is new:**  
 1. Combines **information-theoretic guarantees** with **practical invariance enforcement**.  
 2. Visualizes **compression vs. relevance** as a measurable, testable trajectory (“boomerang”).  
 3. Bridges **neural network training** with **transformer-style multi-head representation joins** in a unified theory.  
