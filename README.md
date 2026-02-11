@@ -30,4 +30,29 @@ Compared to existing representation learning methods:
 2. Visualizes **compression vs. relevance** as a measurable, testable trajectory (“boomerang”).  
 3. Bridges **neural network training** with **transformer-style multi-head representation joins** in a unified theory.  
 
+## References
+
+- Shannon, C. E. (1948). *A Mathematical Theory of Communication*. Bell System Technical Journal, 27(3,4), 379–423, 623–656.  
+
+- Tishby, N., Pereira, F. C., & Bialek, W. (2000). *The Information Bottleneck Method*. arXiv:physics/0004057.  
+
+- Tishby, N., & Zaslavsky, N. (2015). *Deep learning and the information bottleneck principle*.  
+
+- Achille, A., & Soatto, S. (2018). *Emergence of Invariant Representations in Deep Networks*. JMLR.  
+
+- Hinton, G., et al. (2018). *Disentangled Representations and Variational Methods*.  
+
+- Vaswani, A., et al. (2017). *Attention Is All You Need*. NeurIPS.  
+
+- Bengio, Y., Courville, A., & Vincent, P. (2013). *Representation Learning: A Review and New Perspectives*. IEEE TPAMI.  
+
+- Schmidhuber, J. (2015). *Deep Learning in Neural Networks: An Overview*. Neural Networks.  
+
+- Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press.  
+
+- Hjelm, R. D., et al. (2019). *Learning Deep Representations by Mutual Information Estimation and Maximization*. ICLR.  
+
+- Krizhevsky, A., Sutskever, I., & Hinton, G. (2012). *ImageNet Classification with Deep Convolutional Neural Networks*. NeurIPS.  
+
+- LeCun, Y., Bengio, Y., & Hinton, G. (2015). *Deep Learning*. Nature, 521, 436–444.  
 
