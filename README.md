@@ -5,9 +5,9 @@
 - **Disentangled Representations**
 - **Transformer Attention Dynamics**
 
-into a single framework, providing a **provable information-theoretic foundation**.
 
-**Key Innovations:**
+
+## Key Innovations:
 
 1. **Invariant Sublattice Restriction** – Suppresses nuisance variables without degrading task-relevant features.  
 2. **Information Plane “Boomerang” Dynamics** – Demonstrates simultaneous compression of complexity and increase in relevance.  
